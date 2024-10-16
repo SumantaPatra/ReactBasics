@@ -1,0 +1,11 @@
+.fill{
+  color: gold;
+}
+.star {
+  font-size: 24px; /* Adjust the size as needed */
+  line-height: 1; /* Optional: Adjusts the vertical alignment */
+  cursor: pointer; /* Change cursor to pointer for better UX */
+}
+.star:hover {
+  color: gold;
+}
