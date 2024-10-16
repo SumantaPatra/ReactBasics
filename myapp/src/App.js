@@ -1,10 +1,12 @@
 import './App.css';
-import Star from './component/star';
+import Search from './component/search';
+// import Star from './component/star';
 
 function App() {
   return (
     <div className="App">
-      <Star/>
+      {/* <Star/> */}
+      <Search/>
     </div>
   );
 }
