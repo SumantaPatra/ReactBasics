@@ -1,0 +1,52 @@
+
+
+export default function Table(){
+    return (
+        <table>
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>title</th>
+                    <th>price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>item1</td>
+                    <td>$20.0</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>item1</td>
+                    <td>$20.0</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>item1</td>
+                    <td>$20.0</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>item1</td>
+                    <td>$20.0</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>item1</td>
+                    <td>$20.0</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>item1</td>
+                    <td>$20.0</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>item1</td>
+                    <td>$20.0</td>
+                </tr>
+            </tbody>
+        </table>
+    )
+}
